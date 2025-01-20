@@ -1,6 +1,6 @@
 # TOPSIS Implementation
 
-## Program 1: Command Line Implementation
+## Command Line Implementation
 Command to run:
 ```bash
 python <RollNumber>.py <InputDataFile> <Weights> <Impacts> <ResultFileName>
@@ -50,8 +50,6 @@ M8,0.93,0.86,3.4,37.0,10.55,0.4085,7
 - Numeric values validation
 - Weights and impacts count validation
 - Impact symbols must be + or -
-
-## Program 2: PyPI Package
 
 ## Requirements
 - Python
